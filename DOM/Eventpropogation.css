@@ -1,0 +1,20 @@
+#gt{
+height: 400px;
+width: 400px;
+background-color: red;
+
+padding: 200px;
+}
+#pt{
+height: 300px;
+width: 300px;
+background-color: green;
+padding: 200px;
+
+}
+#cd{
+height: 200px;
+width: 200px;
+background-color: blue;
+padding: 200px;
+}

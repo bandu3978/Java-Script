@@ -1,0 +1,110 @@
+body{
+  background-color: black;
+}
+
+.main{
+  border: 1px solid;
+}
+
+
+.maindiv{
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid;
+  margin-top: 20px;
+  background-color:whitesmoke;
+}
+.logo{
+  padding-left: 39%;
+  height: 100px;
+  background-color:whitesmoke;
+}
+.bike{
+  margin-top: 20px;
+align-items: center;
+
+}
+.car{
+  margin-top: 20px;
+}
+.auto{
+margin-top: 20px;
+}
+.b{
+  border: 1px solid;
+  border-radius: 50%;
+  
+  }
+ 
+#text1{
+  margin-top: 20px;
+  
+ height: 30px;
+ width: 300px;
+}
+#text2{
+  margin-top: 20px;
+  height: 30px;
+  width: 300px;
+}
+#text3{
+  margin-top: 20px;
+  height: 30px;
+  width: 300px;
+}
+.op1{
+  border: 1px solid;
+height: 30px;
+width: 300px;
+margin-top: 20px;
+background-color:rgb(175, 170, 170);
+text-align: center;
+}
+.op2{
+  border: 1px solid;
+height: 30px;
+width: 300px;
+margin-top: 20px;
+background-color: rgb(175, 170, 170);
+text-align: center;
+
+}
+.op3{
+  border: 1px solid;
+height: 30px;
+width: 300px;
+margin-top: 20px;
+background-color: rgb(175, 170, 170);
+text-align: center;
+
+}
+.btn1{
+background-color: rgb(128, 14, 14);
+color: white;
+border: none;
+border-radius: 30%;
+margin-left: 35%;
+margin-top: 20px;
+height: 40px;
+width: 100px;
+}
+.btn2{
+  background-color: rgb(128, 14, 14);
+  color: white;
+  border: none;
+  border-radius: 30%;
+  margin-left: 35%;
+  margin-top: 20px;
+  height: 40px;
+width: 100px;
+}
+.btn3{
+  background-color: rgb(128, 14, 14);
+  color: white;
+  border: none;
+  border-radius: 30%;
+  margin-left: 35%;
+  margin-top: 20px;
+  height: 40px;
+width: 100px;
+}

@@ -1,0 +1,26 @@
+#div1{
+height: 600px;
+width: 600px;
+border: 1px solid;
+margin: auto;
+background-color: red;
+
+}
+#div2{
+  height: 400px;
+  width: 400px;
+  border: 1px solid;
+  margin:  auto;
+  background-color: green;
+ 
+
+  
+}
+#div3{
+  height: 200px;
+width: 200px;
+border: 1px solid;
+margin: auto;
+background-color: blue;
+
+}
